@@ -4,7 +4,6 @@
     "description": "This project allows you to specify subreddits and then retrieve the most upvoted threads.",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
         "lint": "xo --env=mocha",
         "lint-fix": "xo --env=mocha --fix",
         "test": "mocha tests/**"
