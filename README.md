@@ -36,6 +36,7 @@ You can use this project in three ways
 Get your bot token: https://core.telegram.org/bots
 
 **NPM package**
+
 This project isn't registered on NPM registry so to try out `getThreads` function you must use node console.
 
 On a terminal, run
